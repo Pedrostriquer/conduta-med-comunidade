@@ -1,0 +1,367 @@
+[
+ {
+  "id": "EXEMPLO-2026-Q001",
+  "p": "EXEMPLO-2026",
+  "n": 1,
+  "area": "clinica",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 1: qual destas letras é a A? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "A",
+  "x": "A resposta é A, porque a pergunta pede a letra A. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q002",
+  "p": "EXEMPLO-2026",
+  "n": 2,
+  "area": "cirurgia",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 2: qual destas letras é a B? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "B",
+  "x": "A resposta é B, porque a pergunta pede a letra B. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q003",
+  "p": "EXEMPLO-2026",
+  "n": 3,
+  "area": "go",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 3: qual destas letras é a C? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "C",
+  "x": "A resposta é C, porque a pergunta pede a letra C. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q004",
+  "p": "EXEMPLO-2026",
+  "n": 4,
+  "area": "pediatria",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 4: qual destas letras é a D? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "D",
+  "x": "A resposta é D, porque a pergunta pede a letra D. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q005",
+  "p": "EXEMPLO-2026",
+  "n": 5,
+  "area": "preventiva",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 5: qual destas letras é a A? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "A",
+  "x": "A resposta é A, porque a pergunta pede a letra A. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q006",
+  "p": "EXEMPLO-2026",
+  "n": 6,
+  "area": "clinica",
+  "esp": "Especialidade de exemplo 2",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 6: qual destas letras é a B? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "B",
+  "x": "A resposta é B, porque a pergunta pede a letra B. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q007",
+  "p": "EXEMPLO-2026",
+  "n": 7,
+  "area": "cirurgia",
+  "esp": "Especialidade de exemplo 2",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 7: qual destas letras é a C? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "C",
+  "x": "A resposta é C, porque a pergunta pede a letra C. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q008",
+  "p": "EXEMPLO-2026",
+  "n": 8,
+  "area": "go",
+  "esp": "Especialidade de exemplo 2",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 8: qual destas letras é a D? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "D",
+  "x": "A resposta é D, porque a pergunta pede a letra D. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q009",
+  "p": "EXEMPLO-2026",
+  "n": 9,
+  "area": "pediatria",
+  "esp": "Especialidade de exemplo 2",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 9: qual destas letras é a A? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "A",
+  "x": "A resposta é A, porque a pergunta pede a letra A. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q010",
+  "p": "EXEMPLO-2026",
+  "n": 10,
+  "area": "preventiva",
+  "esp": "Especialidade de exemplo 2",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 10: qual destas letras é a B? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "B",
+  "x": "A resposta é B, porque a pergunta pede a letra B. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q011",
+  "p": "EXEMPLO-2026",
+  "n": 11,
+  "area": "clinica",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 11: qual destas letras é a C? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "C",
+  "x": "A resposta é C, porque a pergunta pede a letra C. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q012",
+  "p": "EXEMPLO-2026",
+  "n": 12,
+  "area": "cirurgia",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 12: qual destas letras é a D? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "D",
+  "x": "A resposta é D, porque a pergunta pede a letra D. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q013",
+  "p": "EXEMPLO-2026",
+  "n": 13,
+  "area": "go",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 13: qual destas letras é a A? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "A",
+  "x": "A resposta é A, porque a pergunta pede a letra A. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q014",
+  "p": "EXEMPLO-2026",
+  "n": 14,
+  "area": "pediatria",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 14: qual destas letras é a B? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "B",
+  "x": "A resposta é B, porque a pergunta pede a letra B. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2026-Q015",
+  "p": "EXEMPLO-2026",
+  "n": 15,
+  "area": "preventiva",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 15: qual destas letras é a C? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D"
+  },
+  "g": "C",
+  "x": "A resposta é C, porque a pergunta pede a letra C. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2025-Q001",
+  "p": "EXEMPLO-2025",
+  "n": 1,
+  "area": "clinica",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 16: qual destas letras é a A? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D",
+   "E": "A letra E"
+  },
+  "g": "A",
+  "x": "A resposta é A, porque a pergunta pede a letra A. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2025-Q002",
+  "p": "EXEMPLO-2025",
+  "n": 2,
+  "area": "cirurgia",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 17: qual destas letras é a B? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D",
+   "E": "A letra E"
+  },
+  "g": "B",
+  "x": "A resposta é B, porque a pergunta pede a letra B. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2025-Q003",
+  "p": "EXEMPLO-2025",
+  "n": 3,
+  "area": "go",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 18: qual destas letras é a C? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D",
+   "E": "A letra E"
+  },
+  "g": "C",
+  "x": "A resposta é C, porque a pergunta pede a letra C. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2025-Q004",
+  "p": "EXEMPLO-2025",
+  "n": 4,
+  "area": "pediatria",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 19: qual destas letras é a D? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D",
+   "E": "A letra E"
+  },
+  "g": "D",
+  "x": "A resposta é D, porque a pergunta pede a letra D. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ },
+ {
+  "id": "EXEMPLO-2025-Q005",
+  "p": "EXEMPLO-2025",
+  "n": 5,
+  "area": "preventiva",
+  "esp": "Especialidade de exemplo 1",
+  "tema": "Tema de exemplo",
+  "e": "Questão de exemplo 20: qual destas letras é a E? Este item é fictício e foi escrito só para testar a plataforma. Não tem conteúdo médico, não veio de nenhuma prova e serve apenas para ver as telas funcionando.",
+  "a": {
+   "A": "A letra A",
+   "B": "A letra B",
+   "C": "A letra C",
+   "D": "A letra D",
+   "E": "A letra E"
+  },
+  "g": "E",
+  "x": "A resposta é E, porque a pergunta pede a letra E. Explicação de exemplo, sem conteúdo médico.",
+  "ok": 1
+ }
+]

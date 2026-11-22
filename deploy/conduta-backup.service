@@ -1,0 +1,7 @@
+[Unit]
+Description=Copia do banco do Conduta Med
+After=docker.service
+
+[Service]
+Type=oneshot
+ExecStart=/opt/conduta/backup.sh

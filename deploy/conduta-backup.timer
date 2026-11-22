@@ -1,0 +1,9 @@
+[Unit]
+Description=Copia diaria do banco do Conduta Med
+
+[Timer]
+OnCalendar=*-*-* 06:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

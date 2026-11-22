@@ -1,0 +1,354 @@
+{
+ "v": 3,
+ "layout": "files",
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-10-27T00:24:58Z"
+ },
+ "title": "Conduta",
+ "namespace": "Conduta",
+ "libraries": [
+  {
+   "name": "react",
+   "version": "18.3.1"
+  },
+  {
+   "name": "react-dom",
+   "version": "18.3.1"
+  }
+ ],
+ "sections": {},
+ "groups": [
+  "Logos",
+  "Icons"
+ ],
+ "assetGroups": {
+  "Logos": {
+   "name": "Logos",
+   "tile": "l",
+   "order": [
+    "conduta-simbolo.svg",
+    "conduta-assinatura.svg",
+    "conduta-assinatura-escuro.svg",
+    "conduta-simbolo-uma-cor.svg"
+   ],
+   "files": {
+    "conduta-simbolo.svg": {
+     "name": "conduta-simbolo.svg",
+     "blob": "700184e62082f8fa7be87181aeea4ded",
+     "size": 416,
+     "type": "image/svg+xml"
+    },
+    "conduta-assinatura.svg": {
+     "name": "conduta-assinatura.svg",
+     "blob": "a8c362fe6899755c4dc9618a0bb931e5",
+     "size": 3875,
+     "type": "image/svg+xml"
+    },
+    "conduta-assinatura-escuro.svg": {
+     "name": "conduta-assinatura-escuro.svg",
+     "blob": "a3299342b6882347359e9d6db5be27cd",
+     "size": 3875,
+     "type": "image/svg+xml"
+    },
+    "conduta-simbolo-uma-cor.svg": {
+     "name": "conduta-simbolo-uma-cor.svg",
+     "blob": "73912b9cb18009075a1e86dacb220d79",
+     "size": 494,
+     "type": "image/svg+xml"
+    }
+   }
+  },
+  "Icons": {
+   "name": "Icons",
+   "tile": "xs",
+   "order": [
+    "check.svg",
+    "x.svg",
+    "chevron-right.svg",
+    "chevron-left.svg",
+    "chevron-down.svg",
+    "external.svg",
+    "clock.svg",
+    "calendar.svg",
+    "flag.svg",
+    "today.svg",
+    "questions.svg",
+    "exam.svg",
+    "cards.svg",
+    "chart.svg",
+    "search.svg",
+    "filter.svg",
+    "upload.svg",
+    "undo.svg",
+    "strike.svg",
+    "text-size.svg",
+    "video.svg",
+    "info.svg",
+    "alert.svg",
+    "void.svg",
+    "swap.svg",
+    "message.svg",
+    "tip.svg",
+    "plus.svg",
+    "file.svg",
+    "image.svg",
+    "hourglass.svg",
+    "pulse.svg",
+    "stethoscope.svg",
+    "scalpel.svg",
+    "pacifier.svg",
+    "uterus.svg",
+    "shield.svg",
+    "play.svg",
+    "more.svg"
+   ],
+   "files": {
+    "check.svg": {
+     "name": "check.svg",
+     "blob": "9becd5ea2beab4429b9e88c280047fa1",
+     "size": 225,
+     "type": "image/svg+xml"
+    },
+    "x.svg": {
+     "name": "x.svg",
+     "blob": "97a90709ec517e957e93322ae9385158",
+     "size": 233,
+     "type": "image/svg+xml"
+    },
+    "chevron-right.svg": {
+     "name": "chevron-right.svg",
+     "blob": "279536f7d8939ae3980b87b488690737",
+     "size": 217,
+     "type": "image/svg+xml"
+    },
+    "chevron-left.svg": {
+     "name": "chevron-left.svg",
+     "blob": "24c3a5e048a7ddbabb20de337f2bfbec",
+     "size": 219,
+     "type": "image/svg+xml"
+    },
+    "chevron-down.svg": {
+     "name": "chevron-down.svg",
+     "blob": "9916026be1704df36387f6bfec9815bd",
+     "size": 217,
+     "type": "image/svg+xml"
+    },
+    "external.svg": {
+     "name": "external.svg",
+     "blob": "2af20ae33bf8ee8a89a25d1d9cd1290f",
+     "size": 244,
+     "type": "image/svg+xml"
+    },
+    "clock.svg": {
+     "name": "clock.svg",
+     "blob": "187ba331a9eda4ead17416a2b0012e3a",
+     "size": 281,
+     "type": "image/svg+xml"
+    },
+    "calendar.svg": {
+     "name": "calendar.svg",
+     "blob": "f7e11ca387125c97ff87d9a63025917a",
+     "size": 356,
+     "type": "image/svg+xml"
+    },
+    "flag.svg": {
+     "name": "flag.svg",
+     "blob": "56ae86732d51fac45621807731d2ed98",
+     "size": 260,
+     "type": "image/svg+xml"
+    },
+    "today.svg": {
+     "name": "today.svg",
+     "blob": "27fef9bb425b0ecb5a545fa72dab3a95",
+     "size": 520,
+     "type": "image/svg+xml"
+    },
+    "questions.svg": {
+     "name": "questions.svg",
+     "blob": "ac48b48a7b8b56be9101abdbc9a3c339",
+     "size": 389,
+     "type": "image/svg+xml"
+    },
+    "exam.svg": {
+     "name": "exam.svg",
+     "blob": "4d8f9e2a90c5f8f1d1dbb1de78ad17a7",
+     "size": 370,
+     "type": "image/svg+xml"
+    },
+    "cards.svg": {
+     "name": "cards.svg",
+     "blob": "ced01d117b1d7097f8b6a587d14dddf5",
+     "size": 324,
+     "type": "image/svg+xml"
+    },
+    "chart.svg": {
+     "name": "chart.svg",
+     "blob": "f2ddb6394502f9413b9a5aec62e91ed1",
+     "size": 297,
+     "type": "image/svg+xml"
+    },
+    "search.svg": {
+     "name": "search.svg",
+     "blob": "1938cf04c8e13a5aef4bfd0c988f66ba",
+     "size": 281,
+     "type": "image/svg+xml"
+    },
+    "filter.svg": {
+     "name": "filter.svg",
+     "blob": "90fdcbc25e47be18458925c9f99c0887",
+     "size": 262,
+     "type": "image/svg+xml"
+    },
+    "upload.svg": {
+     "name": "upload.svg",
+     "blob": "862a9598fb660b73487fd99bc24d9ffa",
+     "size": 327,
+     "type": "image/svg+xml"
+    },
+    "undo.svg": {
+     "name": "undo.svg",
+     "blob": "d27dc11a24544b5f4cef3a25b36ea28e",
+     "size": 267,
+     "type": "image/svg+xml"
+    },
+    "strike.svg": {
+     "name": "strike.svg",
+     "blob": "8c607b9e4dbf37ba71f8e5609684e81c",
+     "size": 380,
+     "type": "image/svg+xml"
+    },
+    "text-size.svg": {
+     "name": "text-size.svg",
+     "blob": "5e1ed1b9ad0d79e3800b5bf4b88d3b79",
+     "size": 316,
+     "type": "image/svg+xml"
+    },
+    "video.svg": {
+     "name": "video.svg",
+     "blob": "b9f659a055d504b9e45ae1466b367158",
+     "size": 342,
+     "type": "image/svg+xml"
+    },
+    "info.svg": {
+     "name": "info.svg",
+     "blob": "24a4ee842470744384b137ae2d856480",
+     "size": 302,
+     "type": "image/svg+xml"
+    },
+    "alert.svg": {
+     "name": "alert.svg",
+     "blob": "243f9852e295b7325b371df6ead87117",
+     "size": 328,
+     "type": "image/svg+xml"
+    },
+    "void.svg": {
+     "name": "void.svg",
+     "blob": "750454dd2f0c5e45c9dd9e87e3b4c585",
+     "size": 277,
+     "type": "image/svg+xml"
+    },
+    "swap.svg": {
+     "name": "swap.svg",
+     "blob": "b99f7a4918d8370da57b8cead89a8031",
+     "size": 318,
+     "type": "image/svg+xml"
+    },
+    "message.svg": {
+     "name": "message.svg",
+     "blob": "67357edea4bbd5a6d886f1f394a629c9",
+     "size": 313,
+     "type": "image/svg+xml"
+    },
+    "tip.svg": {
+     "name": "tip.svg",
+     "blob": "455e143d38475f704c69f657720d01b3",
+     "size": 350,
+     "type": "image/svg+xml"
+    },
+    "plus.svg": {
+     "name": "plus.svg",
+     "blob": "902c779d6baf48303e416c29d6f0be88",
+     "size": 237,
+     "type": "image/svg+xml"
+    },
+    "file.svg": {
+     "name": "file.svg",
+     "blob": "44b5c8e3fe317b40e77434b5712c1714",
+     "size": 304,
+     "type": "image/svg+xml"
+    },
+    "image.svg": {
+     "name": "image.svg",
+     "blob": "f0a3ef49f156c1c234d521a3ffed9812",
+     "size": 374,
+     "type": "image/svg+xml"
+    },
+    "hourglass.svg": {
+     "name": "hourglass.svg",
+     "blob": "1f2ed33e13f9d90c74dd6744691a5ebc",
+     "size": 342,
+     "type": "image/svg+xml"
+    },
+    "play.svg": {
+     "name": "play.svg",
+     "blob": "d190a3c24355ac90ec9db63b0563c354",
+     "size": 208,
+     "type": "image/svg+xml"
+    },
+    "more.svg": {
+     "name": "more.svg",
+     "blob": "17109d13ad226a60f5d8d404c43baf4c",
+     "size": 248,
+     "type": "image/svg+xml"
+    },
+    "pulse.svg": {
+     "name": "pulse.svg",
+     "blob": "4079a4c01d5952ae1b25d09f4193414e",
+     "size": 242,
+     "type": "image/svg+xml"
+    },
+    "stethoscope.svg": {
+     "name": "stethoscope.svg",
+     "blob": "52a5b635b3ca4c7c54174b8b440735f9",
+     "size": 403,
+     "type": "image/svg+xml"
+    },
+    "scalpel.svg": {
+     "name": "scalpel.svg",
+     "blob": "434f8e2525e0e7aa319e8d046ff9f7d8",
+     "size": 298,
+     "type": "image/svg+xml"
+    },
+    "pacifier.svg": {
+     "name": "pacifier.svg",
+     "blob": "522c2e5cf02946090f9e64156a864966",
+     "size": 433,
+     "type": "image/svg+xml"
+    },
+    "uterus.svg": {
+     "name": "uterus.svg",
+     "blob": "8bae09b728c2314911fab8d9238ec8b0",
+     "size": 600,
+     "type": "image/svg+xml"
+    },
+    "shield.svg": {
+     "name": "shield.svg",
+     "blob": "7405546925f74f807a74cecb8c2c4ff6",
+     "size": 288,
+     "type": "image/svg+xml"
+    }
+   }
+  }
+ },
+ "blobs": {},
+ "docs": {
+  "sections": []
+ },
+ "lastChange": {
+  "by": "Conduta Med",
+  "at": "2026-10-27T00:59:11Z",
+  "via": "Claude Code",
+  "note": "Dock de vidro líquido com lente, ECG (Pulse), sinais vitais (Vitals) e ícones das áreas."
+ }
+}

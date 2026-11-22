@@ -1,0 +1,162 @@
+{
+ "bg": {
+  "light": "#f4f6f8",
+  "dark": "#0a0c10",
+  "usage": "Fundo da página e das listas agrupadas."
+ },
+ "surface": {
+  "light": "#ffffff",
+  "dark": "#14171c",
+  "usage": "Cartões, a questão, o flashcard, folhas (sheets)."
+ },
+ "surface-2": {
+  "light": "#eceff3",
+  "dark": "#1f2328",
+  "usage": "Preenchimento embutido: trilho do controle segmentado, chip inativo, célula vazia do mapa da prova."
+ },
+ "surface-3": {
+  "light": "#e3e7ec",
+  "dark": "#2a2e34",
+  "usage": "Estado pressionado de linhas e de botões cinza."
+ },
+ "line": {
+  "light": "#dce0e5",
+  "dark": "#2a2e34",
+  "usage": "Divisórias finas (1px) entre linhas e seções. Decorativa: não carrega significado."
+ },
+ "line-strong": {
+  "light": "#878d95",
+  "dark": "#696f77",
+  "usage": "Borda de controle que carrega significado (alternativa, campo, checkbox): 3:1 sobre surface."
+ },
+ "ink": {
+  "light": "#151a21",
+  "dark": "#ebedf0",
+  "usage": "Texto principal, sobre bg, surface e surface-2."
+ },
+ "ink-2": {
+  "light": "#515760",
+  "dark": "#acb2b9",
+  "usage": "Texto secundário: metadados, legendas, rótulos de eixo. Sobre bg, surface e surface-2."
+ },
+ "ink-3": {
+  "light": "#696f77",
+  "dark": "#8d939a",
+  "usage": "Texto terciário: placeholder, contadores apagados. Sobre surface (4.5:1); evite sobre surface-2."
+ },
+ "accent": {
+  "light": "#1468d5",
+  "dark": "#2370db",
+  "usage": "Azul Conduta. Preenchimento do botão principal, alternativa marcada, célula respondida, foco. Texto branco por cima (on-accent)."
+ },
+ "accent-hover": {
+  "light": "#025ac3",
+  "dark": "#1062cc",
+  "usage": "Hover e pressionado do preenchimento accent (mais escuro nos dois temas, para o rótulo branco continuar legível)."
+ },
+ "accent-ink": {
+  "light": "#0961cf",
+  "dark": "#79b4ff",
+  "usage": "Azul como texto ou ícone (links, botão simples, número da questão) sobre surface, bg e accent-soft."
+ },
+ "accent-soft": {
+  "light": "#e4f2ff",
+  "dark": "#172b49",
+  "usage": "Fundo tingido: alternativa selecionada, chip ativo, dia de hoje no cronograma."
+ },
+ "on-accent": {
+  "light": "#ffffff",
+  "dark": "#ffffff",
+  "usage": "Texto e ícone sobre accent (o rótulo do botão principal)."
+ },
+ "success": {
+  "light": "#008877",
+  "dark": "#219a88",
+  "usage": "Acerto: preenchimento do selo e do ícone de certo. Puxado para o verde-azulado, longe do eixo vermelho–verde."
+ },
+ "success-ink": {
+  "light": "#006e5f",
+  "dark": "#6ad7c3",
+  "usage": "Texto de acerto (\"Você acertou\", alternativa correta) sobre surface e success-soft."
+ },
+ "success-soft": {
+  "light": "#ddf7f1",
+  "dark": "#0a2e28",
+  "usage": "Fundo da alternativa correta e do resultado de acerto."
+ },
+ "danger": {
+  "light": "#d33e21",
+  "dark": "#ea593d",
+  "usage": "Erro: ícone de errado, De novo, ação destrutiva. Laranja-avermelhado, separado do verde-azulado por matiz e luminosidade."
+ },
+ "danger-ink": {
+  "light": "#ba2f12",
+  "dark": "#fa9a85",
+  "usage": "Texto de erro (\"Você errou\", alternativa marcada errada) sobre surface e danger-soft."
+ },
+ "danger-soft": {
+  "light": "#ffebe6",
+  "dark": "#401e17",
+  "usage": "Fundo da alternativa marcada errada."
+ },
+ "warning": {
+  "light": "#efa831",
+  "dark": "#efb146",
+  "usage": "Atenção: bandeira de revisão, aviso de tempo. Só como preenchimento ou ícone, nunca como texto sobre branco."
+ },
+ "warning-ink": {
+  "light": "#8b5511",
+  "dark": "#f4c26a",
+  "usage": "Texto de atenção (Anulada, Gabarito alterado, Vídeo diverge) sobre surface e warning-soft."
+ },
+ "warning-soft": {
+  "light": "#fff2d6",
+  "dark": "#382810",
+  "usage": "Fundo dos selos de atenção."
+ },
+ "focus": {
+  "light": "#1468d5",
+  "dark": "#79b4ff",
+  "usage": "Anel de foco do teclado: 2px sólido com 2px de folga na cor do fundo. 3:1 ou mais sobre bg, surface e accent-soft."
+ },
+ "scrim": {
+  "light": "#151a21",
+  "dark": "#000000",
+  "usage": "Véu atrás de folhas e diálogos (usar com 40% de opacidade no claro, 60% no escuro)."
+ },
+ "thumb": {
+  "light": "#ffffff",
+  "dark": "#3c4046",
+  "usage": "Polegar do controle segmentado e do interruptor, sobre surface-2."
+ },
+ "hover": {
+  "light": "#151a210d",
+  "dark": "#ffffff12",
+  "usage": "Camada de hover sobre qualquer preenchimento (aplicar como background-image)."
+ },
+ "pressed": {
+  "light": "#151a211a",
+  "dark": "#ffffff1f",
+  "usage": "Camada de pressionado sobre qualquer preenchimento."
+ },
+ "material": {
+  "light": "#ffffffc7",
+  "dark": "#14171cc7",
+  "usage": "Vidro da navegação (dock e barra superior): 78% de opacidade, com backdrop-filter blur(16px) saturate(190%). Só na camada de navegação, nunca no conteúdo."
+ },
+ "inverse": {
+  "light": "#151a21",
+  "dark": "#ebedf0",
+  "usage": "Fundo invertido: aviso (toast) e dica de teclado em destaque."
+ },
+ "on-inverse": {
+  "light": "#ffffff",
+  "dark": "#151a21",
+  "usage": "Texto sobre inverse."
+ },
+ "accent-inverse": {
+  "light": "#79b4ff",
+  "dark": "#0961cf",
+  "usage": "Ação (Desfazer) sobre inverse."
+ }
+}

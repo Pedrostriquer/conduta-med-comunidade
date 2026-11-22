@@ -1,0 +1,9 @@
+{
+  "name": "conduta-med",
+  "displayName": "Conduta Med",
+  "version": "0.3.0",
+  "description": "Conecta o Claude ao Conduta Med, a plataforma de questões de residência médica: estatísticas, cronograma, análise dos erros, listas, flashcards, resumos e explicação de questões com o vídeo da correção.",
+  "author": { "name": "Conduta Med", "url": "https://plataforma.exemplo.com.br" },
+  "homepage": "https://plataforma.exemplo.com.br/plugin",
+  "keywords": ["medicina", "residencia", "questoes", "flashcards", "cronograma"]
+}

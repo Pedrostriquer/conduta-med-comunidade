@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="t d">
+  <title id="t">Conduta Med</title>
+  <desc id="d">Plataforma comunitária e gratuita para estudar para a residência médica com questões. Código aberto.</desc>
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14171c"/>
+      <stop offset="1" stop-color="#0a0c10"/>
+    </linearGradient>
+    <radialGradient id="brilho" cx="0.82" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#2370db" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2370db" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grade" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <clipPath id="cartao"><rect width="1280" height="420" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cartao)">
+    <rect width="1280" height="420" fill="url(#fundo)"/>
+    <rect width="1280" height="420" fill="url(#grade)"/>
+    <rect width="1280" height="420" fill="url(#brilho)"/>
+    <!-- traço de monitor, discreto, atravessando o fundo -->
+    <path transform="translate(0 30)" d="M0 360 H520 C526 360 528 351 534 351 C540 351 542 360 548 360 H560 L565 366 L576 318 L587 384 L593 360 H612 C619 360 624 344 634 344 C644 344 649 360 656 360 H1280"
+          fill="none" stroke="#79b4ff" stroke-opacity="0.18" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="419" rx="27.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- marca: a bifurcação de uma conduta, com o caminho escolhido em destaque -->
+  <g transform="translate(88 96) scale(1.5)">
+    <rect width="64" height="64" rx="16" fill="#1468d5"/>
+    <g fill="none" stroke="#ffffff" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M32 25c0 6.5-11 7.5-11 13.5" opacity=".4"/>
+      <path d="M32 12.5V25c0 6.5 11 7.5 11 13.5"/>
+    </g>
+    <circle cx="43" cy="49.5" r="5.5" fill="#ffffff"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="208" y="162" font-size="64" font-weight="700" letter-spacing="-1.6" fill="#ebedf0">conduta <tspan fill="#79b4ff">med</tspan></text>
+    <text x="90" y="250" font-size="26" font-weight="500" fill="#ebedf0">Plataforma comunitária e gratuita para estudar</text>
+    <text x="90" y="286" font-size="26" font-weight="500" fill="#ebedf0">para a residência médica com questões.</text>
+    <text x="90" y="328" font-size="18" fill="#acb2b9">Código aberto (MIT). O banco de questões não faz parte do repositório.</text>
+  </g>
+
+  <!-- três alternativas, uma marcada como certa -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17">
+    <g transform="translate(900 92)">
+      <rect width="292" height="52" rx="12" fill="#1f2328" stroke="#2a2e34"/>
+      <circle cx="28" cy="26" r="13" fill="none" stroke="#696f77" stroke-width="2"/>
+      <text x="28" y="32" text-anchor="middle" font-weight="600" fill="#acb2b9">A</text>
+      <rect x="56" y="21" width="150" height="10" rx="5" fill="#ffffff" fill-opacity="0.14"/>
+    </g>
+    <g transform="translate(900 156)">
+      <rect width="292" height="52" rx="12" fill="#0a2e28" stroke="#219a88" stroke-width="2"/>
+      <circle cx="28" cy="26" r="13" fill="#219a88"/>
+      <path d="M21.5 26.5l4.5 4.5 8.5-9" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="56" y="21" width="186" height="10" rx="5" fill="#6ad7c3" fill-opacity="0.5"/>
+    </g>
+    <g transform="translate(900 220)">
+      <rect width="292" height="52" rx="12" fill="#1f2328" stroke="#2a2e34"/>
+      <circle cx="28" cy="26" r="13" fill="none" stroke="#696f77" stroke-width="2"/>
+      <text x="28" y="32" text-anchor="middle" font-weight="600" fill="#acb2b9">C</text>
+      <rect x="56" y="21" width="120" height="10" rx="5" fill="#ffffff" fill-opacity="0.14"/>
+    </g>
+  </g>
+</svg>

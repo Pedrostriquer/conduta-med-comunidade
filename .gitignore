@@ -1,0 +1,24 @@
+# dependências e builds
+node_modules/
+dist/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+
+# segredos e configuração local
+.env
+.env.*
+!.env.example
+
+# dados gerados (o banco de questões nunca entra no git, nem o de exemplo depois de carregado)
+app/public/data/
+app/public/img/
+app/public/sql-wasm.wasm
+server/data/
+server/uploads/
+
+# arquivos de estudo pessoais
+*.apkg
+
+# sistema
+.DS_Store

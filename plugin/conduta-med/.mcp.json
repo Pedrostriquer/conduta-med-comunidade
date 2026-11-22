@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "conduta-med": {
+      "type": "http",
+      "url": "https://plataforma.exemplo.com.br/mcp"
+    }
+  }
+}

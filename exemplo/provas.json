@@ -1,0 +1,24 @@
+[
+ {
+  "id": "EXEMPLO-2026",
+  "banca": "EXEMPLO",
+  "ano": 2026,
+  "nome": "Prova de exemplo 2026",
+  "aplicacao": "01/01/2026",
+  "alternativas": 4,
+  "duracao_min": 60,
+  "total": 15,
+  "elegiveis": 15
+ },
+ {
+  "id": "EXEMPLO-2025",
+  "banca": "EXEMPLO",
+  "ano": 2025,
+  "nome": "Prova de exemplo 2025",
+  "aplicacao": "01/01/2025",
+  "alternativas": 5,
+  "duracao_min": 30,
+  "total": 5,
+  "elegiveis": 5
+ }
+]
